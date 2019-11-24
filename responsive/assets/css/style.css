@@ -47,6 +47,10 @@ a:hover {
   text-decoration: none;
 }
 
+.link.active {
+  font-weight: bold;
+}
+
 .header {
   justify-content: space-between;
   background: #ffffff;
