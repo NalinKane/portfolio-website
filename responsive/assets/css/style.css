@@ -120,6 +120,8 @@ a:hover {
   color: white;
   font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 18px;
+  padding: 20px;
+  border-radius: 15px;
 }
 
 .galleryColumn {
@@ -136,7 +138,7 @@ a:hover {
 img {
   display: block;
   width: 300px;
-  height: auto;
+  height: 250px;
 }
 
 .overlay {
